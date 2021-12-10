@@ -1,4 +1,8 @@
-### Hi, my name is Tom and I am an aspiring software developer and former mechanical engineer.
+### Hi, my name is Tom and I am a Junior Software Developer and former Mechanical Engineer.
+
+I am currently learning:
+* Django
+* Bootstrap
 
 I have studied:
 * HTML, CSS, JavaScript
