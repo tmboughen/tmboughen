@@ -1,21 +1,23 @@
-### Hi, my name is Tom and I am a Junior Software Developer and former Mechanical Engineer.
+### Hi, my name is Tom and I am a Junior Software Engineer and former Mechanical Engineer.
 
 I am currently learning:
 * Django
 * Bootstrap
+* SCSS
+* PostgreSQL
 
 I have studied:
 * HTML, CSS, JavaScript
 * Java
-* C\#
+* C\# and MS Visual Studio
 * Python
 
-I am certified:
+I am certified in:
 * OCA and OCP Java SE 8 Programmer
 * CIW HTML5 and CSS3 Specialist
 * MTA Introduction to Programming using Python
 * MTA Software Develpment Fundamentals
-* MEng Mechanical Engineering (Univeristy of Southampton)
+* MEng Mechanical Engineering (University of Southampton)
 
 Other skills:
 * Solidworks, ProEngineer, AutoCAD
